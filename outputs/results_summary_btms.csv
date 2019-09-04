@@ -1,0 +1,4 @@
+﻿site_number,description,npv_us_dollars,total_demand_cost_bau_us_dollars,total_demand_cost_us_dollars,PV|size_kw,Storage|size_kw,Storage|size_kwh,year_one_bill_us_dollars,year_one_bill_bau_us_dollars,net_capital_costs_plus_om_us_dollars
+1,site3-No-PV,0.0,166209.16,166209.16,0.0,0.0,0.0,69996.79,69996.79,0.0
+2,site3-With-PV-testing-trying-again-help-me,60265.0,334601.37,236874.39,140.0,19.6489,64.8609,68933.01,100478.43,221954.0
+3,site3-doitagain,99064.0,378059.31,265859.74,125.0099,20.8797,72.7248,70054.56,100478.43,208473.0
